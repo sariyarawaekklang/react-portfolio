@@ -70,3 +70,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Screenshot of Application
 
 ## GitHub Repository URL
+
+https://github.com/sariyarawaekklang/react-portfolio.git
+
+## Questions
+
+Check out my [GitHub](https://github.com/sariyarawaekklang) to view my other projects.
+</br>
+Want more information? Send me an [email](mailto:sariyarawaekklang@gmail.com). I look forward to hearing from you!
